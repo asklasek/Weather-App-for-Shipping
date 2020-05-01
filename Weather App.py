@@ -1,4 +1,3 @@
-'''Alpha 1.1: Added multi-city selection'''
 
 import requests
 import json
@@ -129,7 +128,7 @@ class WeatherFinder:
     url__="https://community-open-weather-map.p.rapidapi.com/forecast"
     headers__={
     'x-rapidapi-host': "community-open-weather-map.p.rapidapi.com",
-    'x-rapidapi-key': "2dfcdf1e55msha3acb8811cf2a40p1d1f0ajsne92ae2fb20b8"
+    'x-rapidapi-key': "2dfcdf1e55msha3acb8811cf2a40p1d1f0ajsne92ae2fb20b89"
     }
     
     ''' Initialize instance, set city'''
